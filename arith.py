@@ -1,5 +1,5 @@
-n1=int(input())
-n2=int(inpu())
+n1=10
+n2=2
 print("add:",n1+n2)
 print("sub:",n1-n2)
 print("mul:",n1*n2)
